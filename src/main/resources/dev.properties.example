@@ -21,6 +21,6 @@ authEnabled=true
 
 hibernate.dialect=org.hibernate.dialect.MySQLDialect
 hibernate.connection.url=jdbc:mysql://localhost/openhmis
-hibernate.connection.username=
-hibernate.connection.password=
+hibernate.connection.username=openhmis_user
+hibernate.connection.password=openhmis_password
 hibernate.connection.driver_class=com.mysql.jdbc.Driver

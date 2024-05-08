@@ -1,4 +1,4 @@
-flyway.user=myUser
-flyway.password=myPassword
+flyway.user=openhmis_user
+flyway.password=openhmis_password
 flyway.schemas=openhmis
-flyway.url=jdbc:mysql://localhost
+flyway.url=jdbc:mysql://localhost:3306/openhmis
